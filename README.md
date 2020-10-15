@@ -8,3 +8,7 @@
   </a>
 
 # Next.js - Template
+
+- Next.js
+- Typescript
+- Styled Components
