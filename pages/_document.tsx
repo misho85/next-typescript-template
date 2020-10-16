@@ -9,7 +9,7 @@ import Document, {
 import { ServerStyleSheet } from 'styled-components';
 
 // import FavIcon from "../assets/image/favicon.png";
-import { GA_TRACKING_ID } from '../lib/gtag';
+import { GA_TRACKING_ID } from '~lib/gtag';
 
 type Props = {
   isProduction: boolean;

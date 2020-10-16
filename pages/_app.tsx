@@ -3,9 +3,9 @@ import { useRouter } from 'next/router';
 import { useEffect } from 'react';
 import { ThemeProvider } from 'styled-components';
 
-import * as gtag from '../lib/gtag';
-import GlobalStyle from '../styles/global';
-import theme from '../styles/theme';
+import * as gtag from '~lib/gtag';
+import GlobalStyle from '~styles/global';
+import theme from '~styles/theme';
 
 const App: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
   const router = useRouter();

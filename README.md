@@ -12,3 +12,7 @@
 - Next.js
 - Typescript
 - Styled Components
+- ESLint
+- Prettier
+- Stylelint
+- Husky
